@@ -9,3 +9,6 @@ I write a Dockerfile https://github.com/ImaneKABKAB/formation-eazytraining-devop
  - i add the source code automatically using git and github
  
  - i expose the port 80 of the container so that it can be reachable  
+ 
+ Here is the website image ![private](https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/images/TP2.png)
+
