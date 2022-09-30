@@ -33,7 +33,8 @@ The application is devided into 2 services :
  
  We put the 2 services in the same network of type bridge .
  
- We have as result  a site as the follow image ![private](https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/images/app.png)
+ We have as result  a site as the follow image 
+ ![private](https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/images/app.png)
 
 # ⚠️ Private registry
 We build a Docker private registry to store the produced images .
