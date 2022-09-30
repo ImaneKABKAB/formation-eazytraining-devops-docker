@@ -11,6 +11,7 @@ The project aims to :
 The application lists the students with their  ages using a webserver (PHP) and an API (Flask).
 
 I list through this repo all the process for accomplishing the project . 
+![private](https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/images/image.jpg)
 
 # 🔧Build and Test 
 At this step , we will build a Docker image for the student_age api and to do so we will write a Dockerfile 
