@@ -10,6 +10,6 @@ We create 2 containers :
  
  To do so we use this docker-compose.yml file https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/private-registry/docker-compose.yml
  
- Here is the result image https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/images/TP8.png
+ Here is the result image ![private](https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/images/TP8.png)
  
- https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/images/TP81.png
+ ![private](https://github.com/ImaneKABKAB/formation-eazytraining-devops-docker/blob/main/images/TP81.png)
